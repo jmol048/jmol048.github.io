@@ -17,7 +17,7 @@ __University of California Berkeley__
 B.A. Cognitive Science
 
 ## CV ##
-**[Download CV]({{ site.url }}/assets/JessicaMollick_CV_Full_Latest_9_24_22_links.pdf)**
+**[Download CV](https://jmol048.github.io/assets/JessicaMollick_CV_Full_Latest_9_24_22_links.pdf)**
 
 ## Publications
 
