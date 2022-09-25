@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Current Position
 
-Postdoctoral Associate at the Yale School of Medicine, Department of Psychiatry
+Postdoctoral Associate in Hedy Kober's **[lab](https://canlab.yale.edu/)** at the Yale School of Medicine, Department of Psychiatry
 
 ## Education
 
