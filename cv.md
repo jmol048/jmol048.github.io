@@ -29,10 +29,10 @@ A list is also available **[online](https://scholar.google.com/citations?user=N-
 ^ equally contributed
 
 ## Skills
-*	Statistical analyses with R, including lme and ggplot2 packages for data visualization.
-*	Skills with Linux/Unix systems, programming skills in Java, C#,  Python, and MATLAB.
+*	Statistical analyses with **[R](https://www.r-project.org/)**, including lme and **[ggplot2](https://ggplot2.tidyverse.org/index.html)** packages for data visualization.
+*	Skills with Linux/Unix systems, programming skills in Java, C#,  [Python](https://www.python.org/), and [MATLAB](https://www.mathworks.com/products/matlab.html).
 *	Graphic design and web design skills. Proficient at Photoshop and Illustrator. Strong web design and development skills (XHTML, CSS, XML, JavaScript, java applets, PHP, mySQL databases).
-*	Experience programming psychological experiments using Psychtoolbox, PsychoPy and E-Prime.
+*	Experience programming psychological experiments using Psychtoolbox, PsychoPy and E-Prime. Experience with MTurk online experiments.
 *	Experience with complex decision-making and learning models, including hierarchical Bayesian estimation and within subject estimation, in both R and Matlab. Using packages including **[hBayesDM](https://ccs-lab.github.io/hBayesDM/articles/getting_started.html)**
 *	Experience with computational fMRI methods, including machine learning and model-based fMRI. Skills with **[SPM](https://www.fil.ion.ucl.ac.uk/spm/)**, **[fsl](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)** and **[NeuroElf](https://neuroelf.net/wiki/doku.php?id=start)**.
 *	Experience with the **[Emergent](https://github.com/emer/emergent)** neural network modeling framework, including building novel models, understanding deep neural networks, task design and representational analysis, as well as teaching students to build their own models.
