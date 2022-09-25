@@ -16,6 +16,9 @@ Ph. D Neuroscience
 __University of California Berkeley__
 B.A. Cognitive Science
 
+## CV ##
+**[Download CV](JessicaMollick_CV_Full_Latest_9_24_22_links.pdf)**
+
 ## Publications
 
 A list is also available **[online](https://scholar.google.com/citations?user=N-qpWXUAAAAJ&hl=en)**
