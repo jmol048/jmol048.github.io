@@ -3,68 +3,33 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Postdoctoral Associate at the Yale School of Medicine, Department of Psychiatry
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2011-2016`
+__University of Colorado Boulder__
+Ph. D Psychology
+Ph. D Neuroscience
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
+`2006-2011`
+__University of California Berkeley__
+B.A. Cognitive Science
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](https://scholar.google.com/citations?user=N-qpWXUAAAAJ&hl=en)
 
-### Journals
+Corlett, P.R.^, Mollick, J.A,^, Kober, H. Meta-Analysis of Human Prediction Error for Incentives, Perception, Cognition, and Action, Neuropsychopharmacology (2022) [link] (https://www.nature.com/articles/s41386-021-01264-3)
+Herd, S.A., Krueger, K.A., Nair, A., Mollick, J.A. & O'Reilly, R.C. Neural Mechanisms of Human Decision-Making. Cognitive, Affective and Behavioral Neuroscience (2021) [link]()
+Mollick, J.A., Chang L., Krishnan, A., Hazy, T.E, Krueger, K, Frank, G, Wager, T.D, O’Reilly, R.C. The neural correlates of cued reward omission, Frontiers in Human Neuroscience (2021) [link](https://www.frontiersin.org/articles/10.3389/fnhum.2021.615313/full)
+Mollick, J.A., Kober, H. Computational Models of Drug Use and Addiction: A Review. Journal of Abnormal Psychology 129 (6), 544, (2020)[link](https://canlab.yale.edu/sites/default/files/MollickKober_2020_computational_models_drug_use_addiction.pdf)
+Mollick, J.A., Hazy, T.E., Nair, A, Krueger, K., O'Reilly, R.C., A systems-neuroscience model of phasic dopamine. Psychological Review 127 (6), 972 (2020)[link](https://ccnlab.org/papers/MollickHazyKruegerEtAl20.pdf)
 
-`1994`
-Article Title, Journal Title
+^ equally contributed
 
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-
+## CV
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
