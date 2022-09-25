@@ -8,21 +8,20 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Jessica Mollick
   avatar: headshot.jpg
-  bio: "Jessica Mollick is a Postdoctoral Associate in the Department of Psychiatry where she conducts research in the lab of Dr. Hedy Kober. Her research focuses on learning, decision making and addiction, and she is currently conducting research on substance use disorders and decision-making and fMRI meta-analysis work on the neural representation of prediction errors. She focuses on using value-based decision-making models to understand the effects of addiction on decision-making behavior and reward learning and computational neural network 
-  models of the basal ganglia, amygdala and dopamine system."
+  bio: "Jessica Mollick is a Postdoctoral Associate in the Department of Psychiatry at the Yale School of Medicine in the lab of Dr. Hedy Kober."
   email: Jessica.Mollick@yale.edu
   # Do not include the @ symbol in your Twitter username
   twitter: jmollick_neuro
-  linkedin: #username
+  linkedin: essica-mollick-96912a15
   github: jmol048
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  researchgate: Jessica-Mollick
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: N-qpWXUAAAAJ
   facebook: #username
   instagram: #username
   bing-verify:
