@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Workshops
-excerpt: "Recent Workshops"
+title: Projects
+excerpt: "Ongoing Research Projects"
 ---
 
-# Workshops I've Put Together
+# Current research projects
 
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+- [Craving, Reward Learning and Decision-Making in Addiction](https://www.yalemedicine.org/clinical-trials/craving-reward-learning-and-decision-making-in-addiction)
