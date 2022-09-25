@@ -30,7 +30,7 @@ A list is also available **[online](https://scholar.google.com/citations?user=N-
 
 ## Skills
 *	Statistical analyses with **[R](https://www.r-project.org/)**, including lme and **[ggplot2](https://ggplot2.tidyverse.org/index.html)** packages for data visualization.
-*	Skills with Linux/Unix systems, programming skills in Java, C#,  [Python](https://www.python.org/), and [MATLAB](https://www.mathworks.com/products/matlab.html).
+*	Skills with Linux/Unix systems, programming skills in Java, C#,  **[Python](https://www.python.org/)**, and **[MATLAB](https://www.mathworks.com/products/matlab.html)**.
 *	Graphic design and web design skills. Proficient at Photoshop and Illustrator. Strong web design and development skills (XHTML, CSS, XML, JavaScript, java applets, PHP, mySQL databases).
 *	Experience programming psychological experiments using Psychtoolbox, PsychoPy and E-Prime. Experience with MTurk online experiments.
 *	Experience with complex decision-making and learning models, including hierarchical Bayesian estimation and within subject estimation, in both R and Matlab. Using packages including **[hBayesDM](https://ccs-lab.github.io/hBayesDM/articles/getting_started.html)**
