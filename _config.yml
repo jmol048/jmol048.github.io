@@ -1,19 +1,20 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Academic Website of Jessica Mollick
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
-  avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  name: Jessica Mollick
+  avatar: headshot.jpg
+  bio: "Jessica Mollick is a Postdoctoral Associate in the Department of Psychiatry where she conducts research in the lab of Dr. Hedy Kober. Her research focuses on learning, decision making and addiction, and she is currently conducting research on substance use disorders and decision-making and fMRI meta-analysis work on the neural representation of prediction errors. She focuses on using value-based decision-making models to understand the effects of addiction on decision-making behavior and reward learning and computational neural network 
+  models of the basal ganglia, amygdala and dopamine system."
+  email: Jessica.Mollick@yale.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: jmollick_neuro
   linkedin: #username
-  github: laderast
+  github: jmol048
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
