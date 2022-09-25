@@ -28,8 +28,6 @@ A list is also available [online](https://scholar.google.com/citations?user=N-qp
 
 ^ equally contributed
 
-## CV
-
 ## Skills
 *	Statistical analyses with R, including lme and ggplot2 packages for data visualization.
 *	Skills with Linux/Unix systems, programming skills in Java, C#,  Python, and MATLAB.
