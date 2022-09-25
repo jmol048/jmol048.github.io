@@ -34,9 +34,9 @@ A list is also available **[online](https://scholar.google.com/citations?user=N-
 *	Graphic design and web design skills. Proficient at Photoshop and Illustrator. Strong web design and development skills (XHTML, CSS, XML, JavaScript, java applets, PHP, mySQL databases).
 *	Experience programming psychological experiments using Psychtoolbox, PsychoPy and E-Prime.
 *	Experience with complex decision-making and learning models, including hierarchical Bayesian estimation and within subject estimation, in both R and Matlab. Using packages including **[hBayesDM](https://ccs-lab.github.io/hBayesDM/articles/getting_started.html)**
-*	Experience with computational fMRI methods, including machine learning and model-based fMRI. Skills with SPM, fslview and NeuroElf.
+*	Experience with computational fMRI methods, including machine learning and model-based fMRI. Skills with **[SPM](https://www.fil.ion.ucl.ac.uk/spm/)**, **[fsl](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)** and **[NeuroElf](https://neuroelf.net/wiki/doku.php?id=start)**.
 *	Experience with the **[Emergent](https://github.com/emer/emergent)** neural network modeling framework, including building novel models, understanding deep neural networks, task design and representational analysis, as well as teaching students to build their own models.
-*	Experience creating figures for publications and presentations, both using python's matplotlib and numpy, and plotting software within Matlab.
+*	Experience creating figures for publications and presentations, both using python's **[matplotlib](https://matplotlib.org/)** and **[numpy](https://numpy.org/)**, and plotting software within Matlab.
 
 
 <!-- ### Footer
