@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Academic Website of Jessica Mollick
-url: "www.jessicamollick.com"
+url: "jessicamollick.com"
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
